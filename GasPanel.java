@@ -7,6 +7,13 @@ Purpose: To show the total amount and cost of KWH in a GUI
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+    FEEDBACK FROM INSTRUCTOR:
+    Sarah, great job.  Your exit button will not work if the form is blank.  
+    The code for exit is embedded within the if statement to check the text fields.  
+    It's OK to exit at any time.  Otherwise, great work.
+-------------------------------------------------------------------------------*/
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
