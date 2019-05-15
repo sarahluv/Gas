@@ -34,6 +34,7 @@ public class GasPanel extends JPanel
     private JTextField refAnswer, washDryAnswer, ovenAnswer, microAnswer, coffAnswer, compAnswer, 
     tvAnswer;
     private JButton calculate, clear, exit;
+    
     public GasPanel()
     {
         /*------------------------------------------------------------------------------
