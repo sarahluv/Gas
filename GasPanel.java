@@ -139,6 +139,7 @@ public class GasPanel extends JPanel
         String coffString = coffAnswer.getText();
         String compString = compAnswer.getText();
         String tvString = tvAnswer.getText();
+        
         if (refString.length() > 0 && washdryString.length() > 0 && ovenString.length() > 0
         && microString.length() > 0 && coffString.length() > 0 && compString.length() > 0
         && tvString.length() > 0) {
